@@ -1,0 +1,1 @@
+The goal of this study is to understand the impact of open learning environment (OLE's) on student's academic success. We hope to alter the data to find the best combination of models and feature selection.
